@@ -21,7 +21,7 @@ config.json: Optional configuration file for customizing settings like the model
 
 1. Clone the Repository:
 
-git clone https://github.com/yourusername/max-assistant.git
+git clone https://github.com/D34thM4CH1N3/max-assistant.git
 cd max-assistant
 
 
